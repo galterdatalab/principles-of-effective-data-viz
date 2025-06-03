@@ -21,14 +21,14 @@ Anscombe’s Quartet is often used to show the value of visualization in statist
 
 This code will generate basic summary statistics, which are very similar between the datasets, as well as plots for each that highlight important differnces between them.
 
-Code: [anscombes_quartet.R]()
+Code: [anscombes_quartet.R](https://github.com/galterdatalab/principles-of-effective-data-viz/blob/main/anscombes_quartet.R)
 
 ## Visualizing World Happiness (R and ggplot2)
 
 In this example we create a plot of the 30 top scoring countries in the World Happiness Report from 2017. The data is available on [Kaggle](https://www.kaggle.com/datasets/unsdsn/world-happiness?select=2017.csv).
 
-Code: [ggplot_happiness_scores.R]()
-Dataset: [happiness_data/2017.xlsx]
+Code: [ggplot_happiness_scores.R](https://github.com/galterdatalab/principles-of-effective-data-viz/blob/main/ggplot_happiness_scores.R)
+Dataset: [happiness_data/2017.xlsx](https://github.com/galterdatalab/principles-of-effective-data-viz/blob/main/happiness_data/2017.xlsx)
 
 ## Graph Visualization
 
@@ -40,7 +40,7 @@ Follow the steps below to create an example co-citation network among a group of
 2. Download [Example_Network.csv]() from this repository
 4. Open Gephi
 4. Go to File → Import spreadsheet
-5. Choose the file [Example_Network.csv]()
+5. Choose the file [Example_Network.csv](https://github.com/galterdatalab/principles-of-effective-data-viz/blob/main/Example_Network.csv)
 6. Choose “Comma”, “Edges table”, and “UTF-8”
 7. Click Next
 8. Choose “Weight” (Integer or Double) and “Type”, click Finish
@@ -51,4 +51,4 @@ Follow the steps below to create an example co-citation network among a group of
     - Go to Appearance to set node size, color, etc.
     - Go to Layout to reposition nodes and edges
 
-A Gephi file ([Example_Network.gephi]()) of the resulting network is also included.
+A Gephi file ([Example_Network.gephi](https://github.com/galterdatalab/principles-of-effective-data-viz/blob/main/Example_Network.gephi)) of the resulting network is also included.
