@@ -51,13 +51,10 @@ Follow the steps below to create an example co-citation network among a group of
     - Go to Appearance to set node size, color, etc.
     - Go to Layout to reposition nodes and edges
 
-<<<<<<< Updated upstream
-A Gephi file ([Example_Network.gephi](https://github.com/galterdatalab/principles-of-effective-data-viz/blob/main/Example_Network.gephi)) of the resulting network is also included.
-=======
 A Gephi file ([Example_Network.gephi]()) of the resulting network is also included.
 
 ## Authors
 
 - [kglibrarian](https://github.com/kglibrarian)
 - [carsonicator](https://github.com/carsonicator)
->>>>>>> Stashed changes
+
