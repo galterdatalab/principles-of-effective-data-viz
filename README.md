@@ -37,10 +37,10 @@ Follow the steps below to create an example co-citation network among a group of
 ### Creating a Network in Gephi
 
 1. Download the newest version of Gephi: https://gephi.org
-2. Download [Example_Network.csv]() from this repository
+2. Download [Example_Network.csv](https://github.com/galterdatalab/principles-of-effective-data-viz/blob/main/Example_Network.csv) from this repository
 4. Open Gephi
 4. Go to File → Import spreadsheet
-5. Choose the file [Example_Network.csv](https://github.com/galterdatalab/principles-of-effective-data-viz/blob/main/Example_Network.csv)
+5. Choose the 'Example_Network.csv'
 6. Choose “Comma”, “Edges table”, and “UTF-8”
 7. Click Next
 8. Choose “Weight” (Integer or Double) and “Type”, click Finish
