@@ -53,8 +53,7 @@ Follow the steps below to create an example co-citation network among a group of
 
 A Gephi file ([Example_Network.gephi]()) of the resulting network is also included.
 
-## Authors
+## Class Creators
 
 - [kglibrarian](https://github.com/kglibrarian)
 - [carsonicator](https://github.com/carsonicator)
-
